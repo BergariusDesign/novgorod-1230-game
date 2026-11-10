@@ -2,7 +2,7 @@
 
 Интерактивная игра по Новгородской первой летописи о голоде 1230–1231 годов. Играть можно в браузере, на компьютере и на телефоне. Проект канала Caves Of Time.
 
-**Играть:** [вставьте ссылку на GitHub Pages]
+**Играть:** [](https://bergariusdesign.github.io/novgorod-1230-game/)
 
 ## О чём игра
 
@@ -48,7 +48,7 @@ HTML, CSS и JavaScript в одном файле, без библиотек. Ш�
 
 ## Автор
 
-Caves Of Time — исторические ролики с ИИ-иллюстрациями. https://www.youtube.com/channel/UCOvGLt0ItitJ5_7iieUSU9Q
+Caves Of Time — исторические ролики. https://www.youtube.com/channel/UCOvGLt0ItitJ5_7iieUSU9Q
 
 ## Лицензия
 
